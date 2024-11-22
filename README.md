@@ -20,4 +20,4 @@ Ao cadastrar usuário do tipo Professor ou Prestador, o usuário Administrador d
 ![](docs/images/diagrams/class.png)
 
 ## Documentação UML Completa
-[Arquivo-Entrega1](docs/files/Projeto Integrador - 3o Sementre I.pdf)
+[Arquivo-Entrega1](docs/files/Projeto-Integrador-3oSementreI.pdf)
