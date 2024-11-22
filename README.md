@@ -35,10 +35,10 @@
 ## Prototipagem
 - Todo o protótipo pode ser visualizado no Figma: [Figma-Protótipo](https://www.figma.com/design/blMmzO6lK5SwxrYyWzHvRP/Projeto-Integrador---Prot%C3%B3tipos?node-id=0-1&node-type=canvas&t=2UlZLAXlQXdtRlHf-0)
 
-### Protótipo - Página Login
+### Protótipo - Página Login (Pré-condição)
 ![](docs/images/prototypes/Login.png)
 
-### Protótipo - Página Gerencimaneto de Usuários
+### Protótipo - Página Gerencimaneto de Usuários (Pré-condição)
 ![](docs/images/prototypes/Gerenciamento.png)
 
 ### Protótipo - Página Seleção de Categoria
@@ -61,3 +61,6 @@
 
 ### Protótipo - Página Formulário - Fornecedor Pessoa Jurídica
 ![](docs/images/prototypes/Form-FornecedorPJ.png)
+
+### Protótipo - Sucesso - Opções (Pós-condição)
+![](docs/images/prototypes/Pos-Options.png)
