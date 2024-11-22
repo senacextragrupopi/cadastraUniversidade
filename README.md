@@ -29,3 +29,35 @@
 
 ## Documentação UML Completa
 [Arquivo-Entrega1](docs/files/Projeto-Integrador-3oSementreI.pdf)
+
+---
+
+## Prototipagem
+- Todo o protótipo pode ser visualizado no Figma: [Figma-Protótipo](https://www.figma.com/design/blMmzO6lK5SwxrYyWzHvRP/Projeto-Integrador---Prot%C3%B3tipos?node-id=0-1&node-type=canvas&t=2UlZLAXlQXdtRlHf-0)
+
+### Protótipo - Página Login
+![](docs/images/prototypes/Login.png)
+
+### Protótipo - Página Gerencimaneto de Usuários
+![](docs/images/prototypes/Gerenciamento.png)
+
+### Protótipo - Página Seleção de Categoria
+![](docs/images/prototypes/Select-Category.png)
+
+### Protótipo - Página Seleção de Tipo de Pessoa
+![](docs/images/prototypes/Select-PersonType.png)
+
+### Protótipo - Página Formulário - Aluno
+![](docs/images/prototypes/Form-Aluno.png)
+
+### Protótipo - Página Formulário - Professor Pessoa Física
+![](docs/images/prototypes/Form-ProfessorPF.png)
+
+### Protótipo - Página Formulário - Professor Pessoa Jurídica
+![](docs/images/prototypes/Form-ProfessorPJ.png)
+
+### Protótipo - Página Formulário - Fornecedor Pessoa Física
+![](docs/images/prototypes/Form-FornecedorPF.png)
+
+### Protótipo - Página Formulário - Fornecedor Pessoa Jurídica
+![](docs/images/prototypes/Form-FornecedorPJ.png)
